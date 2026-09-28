@@ -1,0 +1,6 @@
+{
+  "name": "Relógio Swift com Círculo de Segundos",
+  "description": "Aplicativo de relógio minimalista com minutos, segundos, anel de progresso personalizável e alternância entre modos claro e escuro, com exportador de código SwiftUI nativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
